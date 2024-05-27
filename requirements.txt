@@ -1,6 +1,7 @@
-python-dotenv==1.0.1
+python-dotenv
 PyPDF2
 streamlit
 langchain-openai
 langchain-community
 openai
+faiss-cpu
