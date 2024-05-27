@@ -1,4 +1,4 @@
-dotenv
+python-dotenv==1.0.1
 PyPDF2
 streamlit
 langchain-openai
